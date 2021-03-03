@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-room-runtime/tags/2.0.0,androidx-room-runtime,80be0033657c001b12c4e3f5082ba7bc;https://github.com/dandar3/android-androidx-room-runtime;https://github.com/dandar3/android-androidx-room-runtime;branches;tags;trunk;true;1a38d797-30ca-cf69-b009-ce57b7db7bff;https://github.com/dandar3/android-androidx-room-runtime;;false;;;0"/>
+</provider>
+</psf>
