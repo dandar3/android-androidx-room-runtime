@@ -1,7 +1,7 @@
 ## androidx-room-runtime
 
 Eclipse library project based on:<br/>
-https://maven.google.com/androidx/room/room-runtime/2.0.0/room-runtime-2.0.0.jar
+https://maven.google.com/androidx/room/room-runtime/2.0.0/room-runtime-2.0.0.aar
 
 **Import:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
